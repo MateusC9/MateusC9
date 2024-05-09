@@ -19,7 +19,7 @@ Desenvolvedor de software apaixonado por tecnologia e inovação, comprometido e
 
 ### Formação e Habilidades:
 - Graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. <br/>
-- Experimente em programação, com habilidades sólidas em desenvolvimento de software.<br/>
+- Experiente em programação, com habilidades sólidas em desenvolvimento de software.<br/>
 - Excelente domínio de HTML, CSS e JavaScript para criar interfaces web dinâmicas e atraentes<br/>
 - Familiaridade com ferramentas de versionamento como Git, facilitando o trabalho colaborativo e a gestão de projetos.<br/>
 - Além disso, possuo proficiência em Django e Python, ampliando meu escopo de desenvolvimento para aplicativos web robustos e eficientes.<br/>
