@@ -15,7 +15,7 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
-Desenvolvedor de software apaixonado por tecnologia e educação, comprometido em impactar positivamente a vida das pessoas através da programação.
+Desenvolvedor de software apaixonado por tecnologia e inovação, comprometido em impactar positivamente a vida das pessoas através da programação.
 
 ### Formação e Habilidades:
 - Graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. <br/>
